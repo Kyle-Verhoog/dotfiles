@@ -1,0 +1,5 @@
+# light
+#set recolor-darkcolor  "#657b83"
+#set recolor-lightcolor "#fdf6e3"
+set recolor-darkcolor "#839496"
+set recolor-lightcolor "#002b36"

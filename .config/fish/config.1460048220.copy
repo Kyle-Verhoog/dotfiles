@@ -1,0 +1,7 @@
+fish_vi_mode
+set -x cs241 ~/waterloo/2B/CS241/
+set -x cs240 ~/waterloo/2B/CS240/
+set -x cs251 ~/waterloo/2B/CS251/
+function fish_prompt
+	echo '~> '
+end
