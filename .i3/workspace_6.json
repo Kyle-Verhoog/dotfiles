@@ -1,0 +1,71 @@
+{
+    "border": "none",
+    "floating": "auto_off",
+    "layout": "splitv",
+    "percent": 0.58,
+    "type": "con",
+    "nodes": [
+        {
+            "border": "none",
+            "current_border_width": 0,
+            "floating": "auto_off",
+            "geometry": {
+               "height": 1009,
+               "width": 1924,
+               "x": 0,
+               "y": 0
+            },
+            "name": "resume.tex (~/waterloo/CO-OP/Resume/resume_tex) - GVIM",
+            "percent": 0.9,
+            "swallows": [
+               {
+                "class": "^Gvim$",
+                "instance": "^gvim$"
+               }
+            ],
+            "type": "con"
+        },
+        {
+            "border": "none",
+            "current_border_width": 0,
+            "floating": "auto_off",
+            "geometry": {
+               "height": 338,
+               "width": 562,
+               "x": 0,
+               "y": 0
+            },
+            "name": "termite",
+            "percent": 0.1,
+            "swallows": [
+               {
+                "class": "^Termite$",
+                "instance": "^termite$"
+               }
+            ],
+            "type": "con"
+        }
+    ]
+}
+
+{
+    "border": "none",
+    "current_border_width": 0,
+    "floating": "auto_off",
+    "geometry": {
+       "height": 600,
+       "width": 800,
+       "x": 0,
+       "y": 0
+    },
+    "name": "/home/kyle/waterloo/CO-OP/Resume/resume_tex/resume.pdf",
+    "percent": 0.42,
+    "swallows": [
+       {
+        "class": "^Zathura$",
+        "instance": "^zathura$"
+       }
+    ],
+    "type": "con"
+}
+

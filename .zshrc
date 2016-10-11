@@ -23,3 +23,5 @@ export phys234=/home/kyle/waterloo/2B/PHYS234/
 
 unsetopt correct
 KEYTIMEOUT=1
+
+export PATH=$HOME/sys161/bin:$HOME/sys161/tools/bin:$PATH 

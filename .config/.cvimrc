@@ -1,0 +1,2 @@
+set smoothscroll
+let scrollstep=80
