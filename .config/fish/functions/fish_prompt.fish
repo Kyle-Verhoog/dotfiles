@@ -1,1 +1,1 @@
-/home/kyle/.local/share/omf/themes/will/fish_prompt.fish
+/home/kyle/.local/share/omf/themes/integral/fish_prompt.fish
